@@ -17,7 +17,7 @@ import com.busca_juzgado.back_spring.Services.JuzgadoService;
 
 @RestController
 @RequestMapping("juzgados")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://giacca90.github.io")
 public class JuzgadoController {
 
     @Autowired
